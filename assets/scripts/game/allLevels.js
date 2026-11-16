@@ -160,7 +160,7 @@ window.allLevels = [
 	    "The Nightmare",
 	    "level_5703070",
 	    ["Jax", "Step"]
-    ]*/
+    ],
     [
         "override",
 	    "Override",

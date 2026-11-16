@@ -125,6 +125,12 @@ window.allLevels = [
 	    "level_21",
 	    ["RobTop", "MDK"]
     ],
+	[
+  "dahs",
+  "dash1",
+  "level_24",
+  ["RobTop", "MDK"]
+    ],
     [
         "dash",
 	    "Dash",
@@ -190,10 +196,5 @@ window.allLevels = [
 	    "Test Level",
 	    "level_23",
 	    ["rohanis0000", "Forever Bound"]
-    ],
-    [ "dahs",
-	  "dash1",
-	  "level_24",
-	  ["RobTop", "MDK"]
-	]
+    ]
     */

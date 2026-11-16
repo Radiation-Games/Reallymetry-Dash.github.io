@@ -190,6 +190,10 @@ window.allLevels = [
 	    "Test Level",
 	    "level_23",
 	    ["rohanis0000", "Forever Bound"]
-    ]
-	*/
-]
+    ],
+    [ "dahs",
+	  "dash1",
+	  "level_24",
+	  ["RobTop", "MDK"]
+	]
+    */

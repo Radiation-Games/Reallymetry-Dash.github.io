@@ -142,7 +142,7 @@ window.allLevels = [
 	    "The Challenge",
 	    "level_67",
 	    ["RobTop", "idk"]
-    ],/*
+    ]/*
     [
         "every_end",
 	    "Every End",
@@ -160,7 +160,7 @@ window.allLevels = [
 	    "The Nightmare",
 	    "level_5703070",
 	    ["Jax", "Step"]
-    ],
+    ]*/
     [
         "override",
 	    "Override",

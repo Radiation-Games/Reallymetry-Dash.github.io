@@ -127,9 +127,15 @@ window.allLevels = [
     ],
 	[
   "dahs",
-  "dash1",
+  "dahs",
   "level_24",
   ["RobTop", "MDK"]
+    ],
+		[
+  "eggplorers",
+  "Explorers",
+  "level_25",
+  ["RobTop", "Hinkik"]
     ],
     [
         "dash",

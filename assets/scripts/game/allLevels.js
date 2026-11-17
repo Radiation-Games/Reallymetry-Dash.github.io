@@ -133,7 +133,7 @@ window.allLevels = [
     ],
 		[
   "eggplorers",
-  "Explorers",
+  "Eggplorers",
   "level_25",
   ["RobTop", "Hinkik"]
     ],

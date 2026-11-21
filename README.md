@@ -36,9 +36,9 @@
 ---
 
 ## Features currently implemented:
-- **Main Menu** - A mostly fully working main menu with all 2.1 levels.
+- **Main Menu** - A mostly fully working main menu with all 2.21 levels.
 - **Online Levels** - You can play online levels, and create your own!
-- **Icon Kit** - A working Icon Kit with different colors and icons to choose from! (Currently not including 2.2 icons.)
+- **Icon Kit** - A working Icon Kit with different colors and icons to choose from! (Currently not including 2.3 icons.)
 - **Different Gamemodes** - Just about every gamemode is implemented currently, with the exception of the Swing.
 - **Extra Settings** - You can enable and disable things like Noclip or Show Hitboxes from the settings menu, along with other settings, like the level percentage!
 

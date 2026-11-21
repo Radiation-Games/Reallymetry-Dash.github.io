@@ -126,14 +126,14 @@ window.allLevels = [
 	    ["RobTop", "MDK"]
     ],
 	[
-  "dahs",
-  "dahs",
+  "dash",
+  "dash",
   "level_24",
   ["RobTop", "MDK"]
     ],
 		[
-  "eggplorers",
-  "Eggplorers",
+  "explorers",
+  "Explorers",
   "level_25",
   ["RobTop", "Hinkik"]
     ],
